@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="60.096101"
-     inkscape:cy="30.612155"
+     inkscape:zoom="1.979899"
+     inkscape:cx="127.75116"
+     inkscape:cy="-29.580881"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4666"
      showgrid="false"
      inkscape:window-width="1436"
      inkscape:window-height="855"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,25 +58,26 @@
      id="layer1"
      transform="translate(-82.964622,-110.07724)">
     <g
-       id="g4682">
+       id="g4682"
+       style="fill:#000000;stroke:none">
       <text
          id="text37"
          y="117.79578"
          x="141.38559"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
            y="127.15955"
            x="141.38559"
            id="tspan35"
-           sodipodi:role="line"></tspan></text>
+           sodipodi:role="line" /></text>
       <text
          id="text29"
          y="130.24042"
          x="82.472351"
-         style="font-style:normal;font-weight:normal;font-size:12.00203609px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a6aaa9;fill-opacity:1;stroke:none;stroke-width:0.30005088px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:12.00203609px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30005088px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00203609px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a6aaa9;fill-opacity:1;stroke:none;stroke-width:0.30005088px"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00203609px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30005088px;"
            y="130.24042"
            x="82.472351"
            id="tspan27"
@@ -85,40 +86,41 @@
          id="text33"
          y="132.97502"
          x="96.801361"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.60306597px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a6aaa9;fill-opacity:1;stroke:none;stroke-width:0.33778739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.60306597px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33778739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.60306597px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a6aaa9;fill-opacity:1;stroke:none;stroke-width:0.33778739px"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.60306597px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33778739px"
            y="132.97502"
            x="96.801361"
            id="tspan31"
            sodipodi:role="line">Applied Technologies</tspan></text>
       <g
          transform="rotate(-19.744876,120.44793,123.08441)"
-         id="g4666">
+         id="g4666"
+         style="fill:#000000;stroke:none">
         <g
            id="g4608"
-           style="fill:#a6aaa9;fill-opacity:1;stroke:#e6e6e6"
+           style="fill:#000000;fill-opacity:1;stroke:#1a1a1a"
            transform="matrix(1.1340507,0,0,1.1340507,-5.0595208,-17.098981)">
           <path
              inkscape:connector-curvature="0"
              id="path39"
              d="m 101.0732,117.8616 10.6251,-3.31768"
-             style="fill:#a6aaa9;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:0.26638946px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:0.26638946px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
           <path
              inkscape:transform-center-y="-3.2072343"
              inkscape:transform-center-x="17.506154"
-             style="fill:#a6aaa9;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:0.26638946px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:0.26638946px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              d="m 101.31509,117.25496 9.20848,6.25328"
              id="path43"
              inkscape:connector-curvature="0" />
           <path
-             style="fill:#a6aaa9;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:0.26638946px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:0.26638946px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              d="m 111.25443,112.4315 -0.73086,11.04648"
              id="path45"
              inkscape:connector-curvature="0" />
         </g>
         <circle
-           style="fill:#a6aaa9;fill-opacity:1;stroke:none;stroke-width:0.09684887"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09684887"
            id="path21"
            cx="116.85103"
            cy="110.22691"
@@ -129,10 +131,10 @@
            cy="106.68168"
            cx="126.93766"
            id="circle23"
-           style="fill:#a6aaa9;fill-opacity:1;stroke:none;stroke-width:0.15624639"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15624639"
            transform="rotate(3.1025614)" />
         <circle
-           style="fill:#ea265f;fill-opacity:1;stroke:none;stroke-width:0.05587926"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05587926"
            id="circle25"
            cx="126.70145"
            cy="116.4322"
